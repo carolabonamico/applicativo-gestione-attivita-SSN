@@ -19,9 +19,9 @@ Per eseguire il progetto, è necessario avere installato MATLAB.
 
 ## Autori
 Progetto realizzato dal gruppo:
-- **Carola Bonamico 1**
-- **Alice Borgognoni 2**
-- **Simone Canegallo 4**
-- **Marco Lolla 3**
+- **Carola Bonamico**
+- **Alice Borgognoni**
+- **Simone Canegallo**
+- **Marco Lolla**
 
 Studenti di Bioingegneria presso l'Università di Pavia.
